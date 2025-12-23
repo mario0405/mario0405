@@ -12,7 +12,7 @@ Technical Skills<br>
 Programming Languages:<br>
 Python — intermediate (4 years)<br>
 SQL — proficient (3 years)<br>
-Java — beginner
+JS — beginner
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-lenzin/) 
