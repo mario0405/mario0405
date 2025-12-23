@@ -3,7 +3,7 @@ Hi, I’m Mario — a 22-year-old passionate about artificial intelligence. I’
 
 Work Experience<br>
 2025 – Present: AI Engineer — MEGASOL AG<br>
-2025 – Present: Indexing Assistant — MDPI<br>
+2025 – 2025: Indexing Assistant — MDPI<br>
 2025 – 2025: IT Specialist — Scatterwork GmbH<br>
 2023 – 2024: Security Officer — Protectas AG<br>
 2022 – 2023: Business Internship (WMS)<br><br>
